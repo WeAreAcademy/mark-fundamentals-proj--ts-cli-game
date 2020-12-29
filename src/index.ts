@@ -1,3 +1,4 @@
-import playGame from "./hangman";
+// Importing 'prompt' for user input (but comment out if you don't need it)
+import { question as prompt } from "readline-sync";
 
-playGame();
+// Add your code below!
